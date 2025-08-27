@@ -1,1 +1,1 @@
-# SimplePongGame
+# SimplePongGame®
